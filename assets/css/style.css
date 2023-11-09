@@ -1,0 +1,27 @@
+nav, footer{
+    background-color: #7C849C;
+}
+
+h1, h2{
+    color: #192954;
+}
+
+p, a, li{
+    color: #1d2d58;
+}
+
+.progress-bar {
+    background-color: #f5900c;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer{
+   box-shadow: 0 -0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+footer li{
+    color: #000;
+}
