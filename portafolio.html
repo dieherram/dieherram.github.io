@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -7,7 +7,7 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
     integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    crossorigin="anonymous" referrerpolicy="no-referrer">
   <!-- Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -28,20 +28,299 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-black" href="#">Inicio</a>
+            <a class="nav-link text-black fw-semibold" href="index.html">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-black" href="#">Portafolio</a>
+            <a class="nav-link text-black fw-semibold" href="#">Portafolio</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 header-photo-section">
+        </div>
+      </div>
+      <div class="row py-5 p-2 g-col-6">
+        <div class="col-sm-12 col-md-6">
+          <h1 class="display-4">Mi trayecto académico en Desarrollo Web Full-Stack</h1>
+        </div>
+        <div class="col-sm-12 col-md-6 d-flex flex-column">
+          <p>Bienvenido a mi portafolio académico, donde demuestro mis habilidades en Desarrollo Web Full-Stack. Explora
+            mis proyectos y observa cómo he evolucionado como desarrollador.</p>
+          <div class="d-flex gap-3">
+            <a href="#main"><button type="button" class="btn btn-success rounded-0"><i class="fa-solid fa-van-shuttle"></i>
+              Explorar</button></a>
+            <button type="button" class="btn btn-warning rounded-0"><i class="fa-solid fa-envelope"></i>
+              Contáctame</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- Main -->
+  <main id="main" class="py-5">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-md-5">
+          <h6>Modulo 1</h6>
+          <h3>Introducción al Desarrollo Web</h3>
+          <span class="badge text-bg-success"><i class="fa-solid fa-location-dot"></i> Cursando</span>
+          <hr>
+          <p class="text-start">Durante mi aprendizaje, me he sumergido en los fundamentos de la creación de sitios web,
+            adquiriendo conocimientos en lenguajes básicos como HTML/CSS, explorando el control de versiones con GIT y
+            aprendiendo a diseñar de manera adaptable con Bootstrap. He abordado las buenas prácticas que garantizan un
+            desarrollo sólido y eficiente.</p>
+          <p class="text-start fw-semibold">Principales proyectos realizados:</p>
+          <div class="d-flex">
+            <p class="d-inline-flex gap-1">
+              <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseExample1" aria-expanded="false" aria-controls="collapseExample1">
+                Introducción a CSS
+              </button>
+              <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
+                Alineando contenido con Flex
+              </button>
+              <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
+                Bootstrap
+              </button>
+            </p>
+          </div>
+          <div class="collapse" id="collapseExample1">
+            <div class="card card-body">
+              <h5>Introducción a CSS</h5>
+              <p class="text-start mb-0">En este desafío, he tenido la oportunidad de crear un nuevo landing page. Para
+                ello, he explorado un concepto o idea específica y seleccionado cuidadosamente las imágenes que he
+                utilizado en mi trabajo "Sega Genesis Revive".</p>
+              <div class="p-4 d-flex gap-3 justify-content-center">
+                <a href="" data-bs-toggle="modal" data-bs-target="#exampleModal1"><i
+                    class="fa-solid fa-image fa-2xl"></i></a>
+                <a href=""><i class="fa-brands fa-github fa-2xl"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Start Modal 1-->
+          <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalLabel">
+                    Introducción a CSS
+                  </h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <img src="assets/img/card-1.png" class="img-fluid" alt="..." />
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-custom" data-bs-dismiss="modal">
+                    Cerrar
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Modal 1 -->
+
+          <div class="collapse" id="collapseExample2">
+            <div class="card card-body">
+              <h5>Alineando contenido con Flex</h5>
+              <p class="text-start mb-0">Se me ha presentado la ocasión de evaluar mis conocimientos en el
+                posicionamiento de CSS. He tenido que fusionar mi comprensión en flexbox con las unidades previas para
+                lograr este propósito. El resultado "Iguana Page".</p>
+                              <div class="p-4 d-flex gap-3 justify-content-center">
+                <a href="" data-bs-toggle="modal" data-bs-target="#exampleModal2"><i
+                    class="fa-solid fa-image fa-2xl"></i></a>
+                <a href=""><i class="fa-brands fa-github fa-2xl"></i></a>
+              </div>
+            </div>
+
+            <!-- Start Modal 2-->
+            <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalLabel">
+                    Alineando contenido con Flex
+                  </h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <img src="assets/img/card-2.png" class="img-fluid" alt="..." />
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-custom" data-bs-dismiss="modal">
+                    Cerrar
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+            <!-- End Modal 2-->
+
+          </div>
+          <div class="collapse" id="collapseExample3">
+            <div class="card card-body">
+              <h5>Bootstrap</h5>
+              <p class="text-start mb-0">En este reto, he tenido la oportunidad de poner a prueba mis conocimientos en
+                Bootstrap. Esto me permitió crear una página web "CUPPON" que se adapta perfectamente a distintos
+                dispositivos.</p>
+                              <div class="p-4 d-flex gap-3 justify-content-center">
+                <a href="" data-bs-toggle="modal" data-bs-target="#exampleModal3"><i
+                    class="fa-solid fa-image fa-2xl"></i></a>
+                <a href=""><i class="fa-brands fa-github fa-2xl"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Start Modal 3-->
+          <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel"
+          aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">
+                  Bootstrap
+                </h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <img src="assets/img/card-3.png" class="img-fluid" alt="..." />
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-custom" data-bs-dismiss="modal">
+                  Cerrar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+          <!-- End Modal 3-->
+
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+          <h6>Modulo 2</h6>
+          <h3>CSS avanzado</h3>
+          <span class="badge text-bg-warning"><i class="fa-solid fa-hourglass-half"></i> Próximo</span>
+          <hr>
+          <p class="placeholder-glow text-start">
+            <span class="placeholder col-7"></span>
+            <span class="placeholder col-4"></span>
+            <span class="placeholder col-4"></span>
+            <span class="placeholder col-6"></span>
+            <span class="placeholder col-8"></span>
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+          <h6>Modulo 3</h6>
+          <h3>Introducción a la programación con JavaScript</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+          <h6>Modulo 4</h6>
+          <h3>React I</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+          <h6>Modulo 5</h6>
+          <h3>React II</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+          <h6>Modulo 6</h6>
+          <h3>Introducción a las bases de datos PostgreSQL</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+          <h6>Modulo 7</h6>
+          <h3>Backend con Node y Express</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-2">
+          <div class="vr" style="height: 100%;"></div>
+        </div>
+        <div class="col-md-5">
+          <h6>Modulo 8</h6>
+          <h3>Proyecto Full Stack</h3>
+          <span class="badge text-bg-secondary"><i class="fa-solid fa-hourglass-start"></i> Próximamente</span>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </main>
   <!-- Footer -->
   <footer class="py-3">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-black">Inicio</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-black">Portafolio</a></li>
+      <li class="nav-item">
+        <a href="index.html" class="nav-link px-2 text-black fw-semibold">Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a href="#" class="nav-link px-2 text-black fw-semibold">Portafolio</a>
+      </li>
     </ul>
     <div class="d-flex flex-column align-items-center row-gap-2">
       <a href=""><img src="assets/img/logotipo.png" alt="" width="50px"></a>
