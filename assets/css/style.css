@@ -64,3 +64,9 @@ footer li {
 #main a i:hover {
   color: #0b5acf;
 }
+
+@media (max-width: 576px) {
+  .vr {
+    display: none;
+  }
+}
