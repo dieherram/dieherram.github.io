@@ -4,7 +4,10 @@ body {
 }
 
 h1,
-h2, h3, h5, h6,
+h2,
+h3,
+h5,
+h6,
 .card-title {
   color: #192954;
 }
@@ -16,12 +19,15 @@ li {
   color: #1d2d58;
 }
 
-nav, .progress {
+nav,
+.progress {
   background-color: #f2f2f2;
 }
 
-main, header {
-  background-color: #E6E6E6;
+main,
+header,
+form {
+  background-color: #e6e6e6;
 }
 
 .progress-bar {
@@ -50,9 +56,9 @@ footer li {
   height: 50vh;
 }
 
-#main a i{
+#main a i {
   color: #0d6efd;
-  transition: color .15s ease-in-out;
+  transition: color 0.15s ease-in-out;
 }
 
 #main a i:hover {

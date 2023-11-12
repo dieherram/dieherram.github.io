@@ -20,7 +20,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg shadow">
     <div class="container">
-      <a class="navbar-brand" href="#"><img src="assets/img/logotipo.png" alt="Logotipo DH" width="50px"></a>
+      <a class="navbar-brand" href="index.html"><img src="assets/img/logotipo.png" alt="Logotipo DH" width="50px"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -51,15 +51,15 @@
         <div class="col-sm-12 col-md-6 d-flex flex-column">
           <p>¡Bienvenido a mi portafolio académico! Aquí muestro mis habilidades en Desarrollo Web Full-Stack.
             Acompáñame en esta travesía, explora mis proyectos y observa cómo evoluciono como desarrollador. Este
-            portafolio se actualiza constantemente siguiendo mi progreso en el bootcamp de Desarrollo Web Full-Stack.
+            portafolio se actualiza constantemente siguiendo mi progreso en el Bootcamp de Desarrollo Web Full-Stack.
           </p>
           <p>¡Te invito a explorar y conocer mi crecimiento!</p>
           <div class="d-flex gap-3">
             <a href="#main"><button type="button" class="btn btn-success rounded-0"><i
                   class="fa-solid fa-van-shuttle"></i>
                 Explorar</button></a>
-            <button type="button" class="btn btn-warning rounded-0"><i class="fa-solid fa-envelope"></i>
-              Contáctame</button>
+            <a href="#form"><button type="button" class="btn btn-warning rounded-0"><i class="fa-solid fa-envelope"></i>
+                Contáctame</button></a>
           </div>
         </div>
       </div>
@@ -228,7 +228,7 @@
         <div class="col-sm-12 col-md-5">
           <h6>Modulo 2</h6>
           <h3>CSS avanzado</h3>
-          <span class="badge text-bg-warning"><i class="fa-solid fa-hourglass-half"></i> Próximo</span>
+          <span class="badge text-bg-warning"><i class="fa-solid fa-hourglass-half"></i> Próximamente</span>
           <hr>
           <p class="placeholder-glow text-start">
             <span class="placeholder col-7"></span>
@@ -319,6 +319,47 @@
       </div>
     </div>
   </main>
+  <!-- Form -->
+  <form id="form" class="py-5">
+    <div class="container">
+      <h2 class="display-3">Para cualquier consulta, o saludar, ponte en contacto <i
+          class="fa-solid fa-hand-spock fa-md"></i></h2>
+      <div class="row py-4">
+        <div class="col-sm-12 col-md-4">
+          <h3>Información de contacto:</h3>
+          <ul class="list-unstyled">
+            <li class="py-1"><a href="mailto:dieherram@gmail.com"><i
+                  class="fa-solid fa-envelope fa-xl me-2"></i>dieherram@gmail.com</a>
+            </li>
+            <li class="py-1"><a href="https://www.linkedin.com/in/diego-hernandez-ramos/"><i
+                  class="fa-brands fa-linkedin fa-xl me-2"></i>LinkedIn</a></li>
+            <li class="py-1"><a href="https://github.com/dieherram"><i
+                  class="fa-brands fa-github fa-xl me-2"></i>GitHub</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-12 col-md-8">
+          <div class="form-group mb-4">
+            <label class="mb-2">Nombre</label>
+            <input class="form-control" placeholder="Alex Murphy" />
+          </div>
+
+          <div class="form-group mb-4">
+            <label class="mb-2">Correo electrónico</label>
+            <input class="form-control" placeholder="alex@ocp.com" />
+          </div>
+
+          <div class="form-group">
+            <label class="mb-2">Mensaje</label>
+            <textarea class="form-control" placeholder="You Call This A GLITCH?"></textarea>
+          </div>
+
+          <div class="text-center py-3 d-flex">
+            <button class="btn btn-dark rounded-0"><i class="fa-solid fa-rocket"></i> Enviar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
   <!-- Footer -->
   <footer class="py-3">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
@@ -330,7 +371,7 @@
       </li>
     </ul>
     <div class="d-flex flex-column align-items-center row-gap-2">
-      <a href=""><img src="assets/img/logotipo.png" alt="Logotipo DH" width="50px"></a>
+      <a href="index.html"><img src="assets/img/logotipo.png" alt="Logotipo DH" width="50px"></a>
       <p class="text-center text-black mb-0">&copy; 2023</p>
     </div>
   </footer>
