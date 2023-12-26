@@ -1,19 +1,19 @@
 # 💫 About Me:
 ¡Hola! 👋 Soy Diego, un apasionado por el mundo digital, el desarrollo web y el marketing digital. Aquí encontrarás una variedad de proyectos que reflejan mi experiencia y aprendizaje continuo.
 
-## 🔭 Actualmente estoy trabajando en:
+### 🔭 Actualmente estoy trabajando en:
 Ayudo a empresas a mejorar o iniciar su presencia en el mundo digital. Mi enfoque está en crear soluciones efectivas y atractivas que impulsen su éxito en línea.
 
-## 👯 Estoy buscando colaborar en:
+### 👯 Estoy buscando colaborar en:
 Proyectos que combinen conocimientos en Marketing Digital, especialmente SEO, con Desarrollo Web Front End. Me encantaría ser parte de equipos comprometidos en lograr resultados impactantes.
 
-## 🤝 Busco ayuda con:
+### 🤝 Busco ayuda con:
 Estoy interesado en hacer networking con personas que compartan mis mismos intereses. Conectar con profesionales y entusiastas del desarrollo web y marketing digital sería genial.
 
-## 🌱 Actualmente estoy aprendiendo:
+### 🌱 Actualmente estoy aprendiendo:
 Me encuentro inmerso en el Bootcamp de Desarrollo Full Stack JavaScript, puedes seguir mi avance en (https://dieherram.github.io/portafolio.html). También estoy siguiendo el cohort 2 de #100Devs para continuar fortaleciendo mis habilidades. Además, estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
 
-## ⚡ Dato curioso:
+### ⚡ Dato curioso:
 Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como "radicalgeekcl". ¡Un espacio donde comparto la magia de los juegos clásicos!
 
 ¡Gracias por visitar mi repositorio! Siéntete libre de explorar y contactarme para cualquier colaboración o simplemente para hablar sobre tecnología y desarrollo. 😊
