@@ -1,36 +1,69 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Diego, un apasionado por el mundo digital, el desarrollo web y el marketing digital. Aquí encontrarás una variedad de proyectos que reflejan mi experiencia y aprendizaje continuo.
+# Prueba - Desarrollo de Portafolio 🚀
 
-### 🔭 Actualmente estoy trabajando en:
-Ayudo a empresas a mejorar o iniciar su presencia en el mundo digital. Mi enfoque está en crear soluciones efectivas y atractivas que impulsen su éxito en línea.
+## Descripción del Desafío 🌐
 
-### 👯 Estoy buscando colaborar en:
-Proyectos que combinen conocimientos en Marketing Digital, especialmente SEO, con Desarrollo Web Front End. Me encantaría ser parte de equipos comprometidos en lograr resultados impactantes.
+En este emocionante desafío, he actualizado mi curriculum y portafolio, haciéndolos accesibles a través de GitHub Pages. Esta iniciativa integra todos los conocimientos adquiridos hasta ahora.
 
-### 🤝 Busco ayuda con:
-Estoy interesado en hacer networking con personas que compartan mis mismos intereses. Conectar con profesionales y entusiastas del desarrollo web y marketing digital sería genial.
+## Resultado Final 🎉
 
-### 🌱 Actualmente estoy aprendiendo:
-Me encuentro inmerso en el Bootcamp de Desarrollo Full Stack JavaScript, puedes seguir mi avance en (https://dieherram.github.io/portafolio.html). También estoy siguiendo el cohort 2 de #100Devs para continuar fortaleciendo mis habilidades. Además, estoy ampliando mi vocabulario en inglés con el curso A2 English for Developers de freeCodeCamp.
+¡Puedes ver el resultado final de mi proyecto accediendo a [mi portafolio](https://dieherram.github.io/)!
 
-### ⚡ Dato curioso:
-Soy un apasionado de los videojuegos retro. En mi tiempo libre, genero contenido relacionado en TikTok, donde me puedes encontrar como "radicalgeekcl". ¡Un espacio donde comparto la magia de los juegos clásicos!
+## Estructura del Proyecto 📂
 
-¡Gracias por visitar mi repositorio! Siéntete libre de explorar y contactarme para cualquier colaboración o simplemente para hablar sobre tecnología y desarrollo. 😊
+### 1. CV utilizando HTML y CSS
 
+- Barra de navegación.
+- Enlace al portafolio.
+- Sección de educación.
+- Sección de experiencia.
+- Footer.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dieherram) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dieherram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-hernandez-ramos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@radicalgeekcl) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/radicalgeekcl) 
+### 2. Página para el Portafolio
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrX&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrX&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrX&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Dentro de mi portafolio, he creado una sección dedicada a mostrar mi trayectoria académica y los módulos que he cursado en el Desarrollo Web Full-Stack. Esta sección se encuentra estructurada de la siguiente manera:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Navbar:** La barra de navegación facilita la transición entre las distintas secciones de la página, proporcionando una experiencia de usuario intuitiva.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- **Header:** La sección de encabezado presenta una imagen de fondo evocadora y un mensaje atractivo que invita a explorar mi trayecto académico en Desarrollo Web Full-Stack. También incluye botones que facilitan la navegación hacia las secciones relevantes.
+
+- **Main:** La parte principal del portafolio está dividida en módulos correspondientes a los diferentes temas que he abordado. Cada módulo incluye información detallada, como el nombre del módulo, el estado actual (finalizado, cursando, próximamente), una breve descripción y, en algunos casos, proyectos destacados asociados.
+
+  - **Modalidades de Presentación de Proyectos:** Para algunos proyectos específicos, he incorporado una presentación detallada mediante ventanas modales. Estas ventanas emergentes incluyen una vista previa del proyecto, información clave y enlaces a los repositorios de GitHub para obtener más detalles.
+
+  - **Visualización Responsiva:** La página se adapta de manera efectiva a diferentes dispositivos, garantizando una experiencia de usuario consistente.
+
+- **Form:** La sección de formulario proporciona a los visitantes la posibilidad de ponerse en contacto conmigo. Incluye campos para el nombre, correo electrónico y un área para el mensaje. Un botón de envío permite a los usuarios enviar sus consultas de manera sencilla.
+
+- **Footer:** El pie de página presenta enlaces de navegación adicionales y mi logotipo. También contiene información de derechos de autor y enlaces a mis perfiles en redes sociales.
+
+Este diseño, implementado utilizando HTML, CSS y Bootstrap, busca destacar de manera clara y estructurada mi viaje académico en el campo del Desarrollo Web Full-Stack.
+
+¡Explora mi portafolio para obtener una visión más detallada de mi experiencia y proyectos!
+
+### 3. Despliegue en Github Pages
+
+- Mi CV es la página principal.
+
+### 4. Contribuciones Colaborativas
+
+- Forkeé los proyectos de al menos 2 compañeros.
+- Realicé al menos 1 commit por cada proyecto forkeado.
+
+## Cómo Iniciar 🚀
+
+1. Clona este repositorio: `git clone https://github.com/dieherram/dieherram.github.io.git`
+2. Abre el archivo `index.html` en tu navegador.
+
+## Contribuciones a Proyectos de Compañeros 🤝
+
+Como parte de la colaboración en la comunidad, forkeé los proyectos de mis compañeros y realicé contribuciones significativas. ¡La colaboración es clave en el desarrollo!
+
+## ¡Conéctate Conmigo! 🌐
+
+¡No dudes en ponerte en contacto para cualquier consulta o simplemente para saludar!
+
+- Correo Electrónico: [dieherram@gmail.com](mailto:dieherram@gmail.com)
+- LinkedIn: [Diego Hernández Ramos](https://www.linkedin.com/in/diego-hernandez-ramos/)
+- GitHub: [dieherram](https://github.com/dieherram)
+
+¡Gracias por ser parte de mi viaje de desarrollo! 🚀
