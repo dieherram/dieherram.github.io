@@ -8,6 +8,14 @@ En este emocionante desafío, he actualizado mi curriculum y portafolio, hacién
 
 ¡Puedes ver el resultado final de mi proyecto accediendo a [mi portafolio](https://dieherram.github.io/)!
 
+¡Aquí hay imagenes mi proyecto!
+
+### Index (CV)
+![Captura de pantalla](./Screenshot-index.png)
+
+### Portafolio
+![Captura de pantalla](./Screenshot-portafolio.png)
+
 ## Estructura del Proyecto 📂
 
 ### 1. CV utilizando HTML y CSS
